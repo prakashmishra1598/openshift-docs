@@ -1,5 +1,5 @@
 [[creating-images-guidelines]]
-= Guidelines
+= Guidelines 
 {product-author}
 {product-version}
 :data-uri:
@@ -9,6 +9,7 @@
 :toc-title:
 
 toc::[]
+link:https://docs.openshift.com/enterprise/latest/creating_images/guidelines.html[(This documentation applies to OpenShift Origin. View the documentation for OpenShift Enterprise instead.)]
 
 == Overview
 When creating container images to run on {product-title} there are a number of best
